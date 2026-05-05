@@ -10,5 +10,5 @@ import { TripListing } from './trip-listing/trip-listing';
   styleUrl: './app.css'
 })
 export class App {
-  protected readonly title = signal(' Travlr Getaways Admin');
+  title = 'Travlr Getaways Admin!';
 }
